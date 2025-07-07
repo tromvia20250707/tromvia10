@@ -20,4 +20,4 @@
 
 采用CDN加速技术和响应式设计，无论你使用手机、平板还是电脑，都能保证视频流畅播放，减少卡顿现象。
 
-<span style="display:none;">[Canonical link](）</span>
+<span style="display:none;">[Canonical link](https://github.com/tromvia20250707/tromvia10 ）</span>
